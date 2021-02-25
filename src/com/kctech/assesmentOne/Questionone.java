@@ -1,4 +1,4 @@
-package com.kctech.assesments;
+package com.kctech.assesmentOne;
 
 public class Questionone {
 

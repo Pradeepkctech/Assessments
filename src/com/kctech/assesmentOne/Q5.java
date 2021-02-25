@@ -1,11 +1,11 @@
-package com.kctech.assesments;
+package com.kctech.assesmentOne;
 
 import java.util.Arrays;
 
-public class Q8 {
+public class Q5 {
 
 	public static void main(String[] args) {
-		String s1="SAVE"; String s2="VASE";
+		String s1="home"; String s2="mohe";
 		boolean status = true;  
         if (s1.length() != s2.length()) {  
             status = false;  
@@ -21,6 +21,8 @@ public class Q8 {
         } else {  
             System.out.println(s1 + " and " + s2 + " are not anagrams");  
         }  
+    }  
+
 	}
 
-}
+
